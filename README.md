@@ -5,5 +5,3 @@ You have to implement k-means algorithm to cluster a set of 1000 2D points. The 
 * Provide graphical visualization of the process of formation of clusters.
 * Instead of running K-means once, run it 10 times and give the best clustering formation achieved. You need to identify the criteria to assess quality of clusters and then choose the best one.
 * Kmeans asks you to provide number of clusters (K) as input. Do some research to identify clustering methods that do not ask for K. Give short description of one such algorithm.
-
-## Final Result: 
